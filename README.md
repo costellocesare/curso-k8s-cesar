@@ -60,14 +60,11 @@ Antes de iniciar el curso, asegúrate de cumplir con los siguientes requisitos y
 
   <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Terminalicon2.png" alt="Terminal" width="40" />
-  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="80" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Antu_network-workgroup.svg" alt="Networking" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Icono_PC.png" alt="PC" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Disk_icon.svg" alt="Disk Space" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Windows_logo_-_2021.svg" alt="Windows" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Apple_logo_black.svg" alt="macOS" width="40" />
+  <img src="https://images.icon-icons.com/2699/PNG/512/python_vertical_logo_icon_168039.png" alt="Python" width="80" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png" alt="Windows" width="40" />
+  <img src="https://icons.veryicon.com/png/o/commerce-shopping/merchant-product-icon-library/mac-21.png" alt="macOS" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Google_Chrome_icon_(2011).svg" alt="Chrome" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/1024px-Google_Chrome_icon_%28February_2022%29.svg.png" alt="Chrome" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Mozilla_Firefox_logo_2019.svg" alt="Firefox" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Microsoft_Edge_logo_(2019).svg" alt="Edge" width="40" />
   <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" width="60" />
