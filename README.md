@@ -59,7 +59,7 @@ Antes de iniciar el curso, asegúrate de cumplir con los siguientes requisitos y
 - **Visual Studio Code** (o cualquier IDE de tu preferencia)
 
   <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Terminalicon2.png" alt="Terminal" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png?20180723054350" alt="Terminal" width="40" />
   <img src="https://images.icon-icons.com/2415/PNG/512/python_original_logo_icon_146381.png" alt="Python" width="80" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png" alt="Windows" width="40" />
   <img src="https://i.ibb.co/FbS9fX1d/png-transparent-apple-logo-computer-icons-macos-apple-apple-logo-white-hand-heart-removebg-preview.png" alt="macOS" width="40" />
