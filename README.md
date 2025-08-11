@@ -1,6 +1,6 @@
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png" alt="Kubernetes Logo" width="120"/>
+	<img src="https://i.ibb.co/pBTKvwJM/Miniatura-de-You-Tube-Machine-learning-Fotograf-a-Azul-1.png" alt="Kubernetes Logo" width="120"/>
 </p>
 
 # 🚀 Curso: Kubernetes de Cero a Pro
