@@ -1,7 +1,31 @@
 # Curso: Kubernetes de Cero a Pro
 
 ## Descripción
-Curso práctico y guiado para aprender Kubernetes desde cero, ideal para quienes tienen conocimientos mínimos o nulos en desarrollo y DevOps. Aprenderás a crear una app sencilla, dockerizarla, desplegarla en Kubernetes y realizar pruebas reales en un clúster local.
+Curso práctico y guiado para aprender Kubernetes desde cero, ideal para quienes tienen conocimientos mínimos o nulos en desarrollo y DevOps. Aprenderás a crear una app sencilla, dockerizarla, desplegarla y gestionarla en Kubernetes, con ejemplos claros y ejercicios prácticos.
+
+---
+
+## Prerrequisitos
+
+Antes de iniciar el curso, asegúrate de cumplir con los siguientes requisitos y de instalar las herramientas recomendadas:
+
+- **Curiosidad y ganas de aprender**
+- **Conocimientos básicos de terminal o línea de comandos**
+- **Conocimientos básicos de programación** (Python recomendado, pero no obligatorio)
+- **Computadora con acceso a Internet**
+- **Permisos de instalación de software en tu equipo**
+- **Espacio en disco suficiente** (recomendado al menos 5GB libres)
+- **Sistema operativo:** Windows, macOS o Linux
+
+### Herramientas necesarias
+
+- [Docker Desktop](https://docs.docker.com/get-docker/) — Guía oficial para instalar Docker.
+- [kubectl](https://kubernetes.io/docs/tasks/tools/) — Instalador oficial de la CLI de Kubernetes.
+- [Minikube](https://minikube.sigs.k8s.io/docs/start/) o [Kind](https://kind.sigs.k8s.io/docs/user/quick-start/) — Para simular Kubernetes localmente.
+- [Python 3.x](https://www.python.org/downloads/) — Recomendado para el desarrollo de la app de ejemplo.
+- [Visual Studio Code](https://code.visualstudio.com/download) — Editor de código recomendado.
+
+> **Opcional:** Cuenta gratuita en [GitHub](https://github.com/join) para descargar recursos y compartir avances.
 
 ---
 
@@ -69,12 +93,3 @@ Curso práctico y guiado para aprender Kubernetes desde cero, ideal para quienes
 - Glosario de términos
 - Enlaces a documentación oficial y tutoriales recomendados
 - Preguntas frecuentes y tips para entrevistas técnicas
-
----
-
-## Siguiente paso
-
-¿Quieres que empecemos a desarrollar el Módulo 1 lección por lección, con contenido, ejemplos y ejercicios?
-¿O prefieres que te entregue primero el contenido completo de un módulo específico?
-
-¡Dime cómo prefieres avanzar!
