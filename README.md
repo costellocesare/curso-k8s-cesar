@@ -25,7 +25,7 @@ flowchart TD
 
 
 <p align="center">
-	<img src="https://cdn.pixabay.com/photo/2017/01/10/19/05/docker-1972826_1280.png" alt="Docker y Kubernetes" width="350"/>
+	<img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Logo.png" alt="Docker y Kubernetes" width="350"/>
 </p>
 
 <h2 align="center">Curso práctico y guiado para aprender Kubernetes desde cero</h2>
