@@ -56,6 +56,7 @@ Antes de iniciar el curso, asegúrate de cumplir con los siguientes requisitos y
 - **Sistema operativo:** Windows, macOS o Linux
 - **Navegador web actualizado** (Chrome, Firefox, Edge, etc.)
 - **Cuenta gratuita en Docker Hub** (para subir imágenes, opcional pero recomendado)
+- **Visual Studio Code** (o cualquier IDE de tu preferencia)
 
 
 ---
