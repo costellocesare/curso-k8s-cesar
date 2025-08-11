@@ -1,6 +1,6 @@
 
 <p align="center">
-	<img src="https://i.ibb.co/pBTKvwJM/Miniatura-de-You-Tube-Machine-learning-Fotograf-a-Azul-1.png" alt="Kubernetes Logo" width="720"/>
+	<img src="https://i.ibb.co/pBTKvwJM/Miniatura-de-You-Tube-Machine-learning-Fotograf-a-Azul-1.png" alt="Kubernetes Logo"/>
 </p>
 
 # 🚀 Curso: Kubernetes de Cero a Pro
