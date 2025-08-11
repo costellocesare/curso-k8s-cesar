@@ -58,6 +58,22 @@ Antes de iniciar el curso, asegúrate de cumplir con los siguientes requisitos y
 - **Cuenta gratuita en Docker Hub** (para subir imágenes, opcional pero recomendado)
 - **Visual Studio Code** (o cualquier IDE de tu preferencia)
 
+  <p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Terminalicon2.png" alt="Terminal" width="40" />
+  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="80" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Antu_network-workgroup.svg" alt="Networking" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Icono_PC.png" alt="PC" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Disk_icon.svg" alt="Disk Space" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Windows_logo_-_2021.svg" alt="Windows" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Apple_logo_black.svg" alt="macOS" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Google_Chrome_icon_(2011).svg" alt="Chrome" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Mozilla_Firefox_logo_2019.svg" alt="Firefox" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Microsoft_Edge_logo_(2019).svg" alt="Edge" width="40" />
+  <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" width="60" />
+  <img src="https://code.visualstudio.com/assets/favicon.ico" alt="VS Code" width="40" />
+</p>
+
 
 ---
 
